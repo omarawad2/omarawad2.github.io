@@ -194,7 +194,7 @@ header.masthead {
   text-align: center;
   color: white;
   background-color: black;
-  background:linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.1)), url("/img/pexels-james-wheeler-1519088.jpg");
+  background:linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.1)), url("/img/toronto_skyline.jpg");
   background-repeat: no-repeat;
   *background-attachment: scroll;
   background-attachment: fixed;
